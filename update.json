@@ -1,14 +1,12 @@
 {
   "version_name": "6.0",
   "version_code": 6,
-  "release_notes": "Update dialogue box updated • UI/UX enhanced • 3D neumorphism effects added • AMOLED theme added • Developed by Sandeep Bedia",
+  "release_notes": "Update dialogue box updated • UI/UX enhanced • 3D neumorphism effects added • AMOLED theme added • Improved music playback performance • Added gesture controls • Better theme customization • Developed by Sandeep Bedia",
   "changelog": [
-    "Don't Update App I'm testing",
     "Update dialogue box updated",
     "UI/UX enhanced",
     "3D neumorphism effects added",
     "AMOLED theme added",
-    "Developed by Sandeep Bedia",
     "Improved music playback performance",
     "Fixed shuffle mode bug",
     "Added equalizer presets",
@@ -20,6 +18,6 @@
     "Improved audio quality",
     "Better theme customization options"
   ],
-  "apk_url": "https://github.com/Sandeepbedia/AB-Music/releases/download/V-5.0/app-release-beta.apk",
+  "apk_url": "https://github.com/Sandeepbedia/AB-Music/releases/download/V-6.0/app-release.apk",
   "force_update": false
 }

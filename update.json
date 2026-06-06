@@ -3,12 +3,8 @@
   "version_code": 405,
   "release_notes": "More stable UI/UX • Removed Current and Folder options from Library • Added AMOLED theme • Improved music playback performance • Added gesture controls • Improved theme customization • Developed by Sandeep Bedia",
   "changelog": [
-    "DON'T UPDATE I'M TESTING UI APP",
-    "More stable UI/UX",
-    "Removed Current and Folder options from Library",
-    "Added AMOLED theme",
-    "Improved music playback performance",
-    "Improved theme customization"
+    "Added video playback support",
+    "More stable UI with performance improvements"
   ],
   "apk_url": "https://github.com/Sandeepbedia/AB-Music/releases/download/V-2.6.7/app-release-v2.5.7.apk",
   "force_update": false

@@ -1,87 +1,139 @@
-# AB Music
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=BB86FC&center=true&vCenter=true&repeat=true&width=435&lines=AB+Music;Offline+Music+Player;Made+with+%E2%99%A5+%26+Compose" alt="Typing SVG" />
+</p>
 
-A modern offline music player for Android built with Jetpack Compose and Material 3 design language. Features a rich UI with neumorphism elements, AMOLED theme support, and an immersive playback experience.
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-15-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-1.9.24-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_3-0066FF?style=for-the-badge&logo=materialdesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/Media3-FF6900?style=for-the-badge&logo=exoplayer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hilt-FF4500?style=for-the-badge&logo=dagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Room-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
-## Features
+<p align="center">
+  <img src="https://img.shields.io/github/v/release/Sandeepbedia/AB-Music?style=flat-square&color=BB86FC&label=Release" />
+  <img src="https://img.shields.io/github/downloads/Sandeepbedia/AB-Music/total?style=flat-square&color=03DAC5&label=Downloads" />
+  <img src="https://img.shields.io/github/stars/Sandeepbedia/AB-Music?style=flat-square&color=FFD700&label=Stars" />
+  <img src="https://img.shields.io/badge/minSdk-26-4CAF50?style=flat-square" />
+  <img src="https://img.shields.io/badge/targetSdk-36-4CAF50?style=flat-square" />
+</p>
 
-### Playback
-- **ExoPlayer/Media3** engine for high-quality audio playback
-- Play, pause, skip, seek, shuffle & repeat modes (Off / One / All)
+---
+
+## ✨ Features
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎵 Playback
+- **ExoPlayer/Media3** high-quality audio engine
+- Play, pause, skip, seek, shuffle & repeat modes
 - **Crossfade** transitions between tracks
 - **Sleep timer** with countdown display
-- **Equalizer** with 5-band controls + presets (Flat, Bass, Vocal, Classical)
-- Audio focus handling (pause when other apps play audio)
-- Background playback via **foreground service** with notification controls
-- "Close App" button in notification when paused
+- **5-band Equalizer** with presets
+- Audio focus & gapless playback
+- Background playback via **foreground service**
+- Media notification with Bluetooth support
 
-### Library Management
-- **Automatic music scanning** from device storage via MediaStore
-- Minimum 30-second track filter
-- Optional subfolder inclusion
-- **Recently added** and **most played** tracking
+</td>
+<td width="50%">
+
+### 🎨 User Interface
+- **Material 3** with dynamic color (Android 12+)
+- **7 theme modes**: System, Light, Dark, AMOLED Purple/Cyan/Pink/Gold
+- **Neumorphic** UI elements & shadows
+- **Horizontal pager** tab navigation
+- **Mini-player** with animated artwork
+- Edge-to-edge immersive display
+- Splash screen API
+- Animated transitions throughout
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📚 Library
+- Automatic **MediaStore** scanning
+- 30-second minimum track filter
+- **Albums**, **Artists**, **Playlists** views
 - **Favorites** system
 - **Recently played** history
-- **Playlist** creation, renaming, deletion, and song management
+- **Most played** tracking
+- Playlist CRUD management
+- Search with 300ms debounce
 
-### Browse & Discover
-- **Home** tab — recently added + most played
-- **Explore** tab — all songs with sort options
-- **Library** tab — albums, artists, playlists sub-tabs
-- **Favorites** tab
-- **Search** with 300ms debounce across all songs
-- Sort by name, date added, duration, or file size
+</td>
+<td width="50%">
 
-### User Interface
-- **Material 3** design with dynamic color support (Android 12+)
-- **6 theme modes**: System, Light, Dark, AMOLED Purple, AMOLED Cyan, AMOLED Pink, AMOLED Gold
-- **Neumorphic** UI elements (cards, shadows, shapes)
-- **Horizontal pager** for tab navigation with swipe support
-- **Mini-player** with animated artwork, waveform bars, show/hide on scroll
-- **Full player screen** with album art, progress, controls
-- **Queue management** screen
-- **Edge-to-edge** immersive display
-- **Splash screen** API
+### 🎬 Video Player
+- Full ExoPlayer video playback
+- **Picture-in-Picture** (PiP) mode
+- Gesture controls: brightness, seek, volume
+- Speed control (0.25x – 2x)
+- Scale modes (fit/crop/fill)
+- Subtitle track switching
+- Volume boost beyond 100%
+- Background audio mode
 
-## Screenshots
+</td>
+</tr>
+</table>
 
-| Home | Player | Library | Settings |
-|------|--------|---------|---------|
-| Recently added & top tracks | Full player with album art | Albums/Artists/Playlists | Theme, EQ, sleep timer |
+---
 
-## Tech Stack
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://via.placeholder.com/180x360/1a1a2e/BB86FC?text=Home" width="18%" />
+  <img src="https://via.placeholder.com/180x360/1a1a2e/03DAC5?text=Player" width="18%" />
+  <img src="https://via.placeholder.com/180x360/1a1a2e/BB86FC?text=Library" width="18%" />
+  <img src="https://via.placeholder.com/180x360/1a1a2e/03DAC5?text=Video" width="18%" />
+  <img src="https://via.placeholder.com/180x360/1a1a2e/BB86FC?text=Settings" width="18%" />
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Architecture-MVVM-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DI-Hilt-FF4500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database-Room-003B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Images-Coil-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/State-Flow-03DAC5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nav-Compose-4285F4?style=for-the-badge" />
+</p>
 
 | Layer | Technology |
 |---|---|
 | **UI** | Jetpack Compose, Material 3, Compose Navigation |
 | **Architecture** | MVVM + Repository Pattern |
-| **DI** | Hilt (Dagger) |
+| **DI** | Hilt (Dagger) with KSP |
 | **Database** | Room (SQLite) with KSP |
-| **Media Playback** | AndroidX Media3 / ExoPlayer |
-| **Image Loading** | Coil (Compose) |
+| **Media** | AndroidX Media3 / ExoPlayer (DASH, HLS) |
+| **Images** | Coil (Compose + Video decoder) |
 | **Preferences** | DataStore Preferences |
 | **Background** | Foreground Service + MediaSessionService |
 | **Async** | Kotlin Coroutines & Flow |
-| **Build** | Gradle KTS, AGP 8.5.0, Kotlin 1.9.24 |
+| **Build** | Gradle, AGP 8.5.0, Kotlin 1.9.24 |
 
-## Build Requirements
+---
 
-- **Android Studio** Hedgehog or later
-- **JDK** 17+
-- **Gradle** 8.x
-- **Min SDK**: 26 (Android 8.0)
-- **Target SDK**: 36 (Android 15)
-- **Compile SDK**: 36
+## 🏗 Architecture
 
-## Building
-
-```bash
-./gradlew assembleDebug    # Debug build
-./gradlew assembleRelease  # Release build (requires keystore)
+```
+MediaStore ──▶ MusicScanner ──▶ Room DB ──▶ Repository ──▶ ViewModel ──▶ Compose UI
+                    │                           │
+                    │                    PlayerViewModel
+                    │                           │
+                    └────── ExoPlayer ◀── MediaController ◀── MusicService
 ```
 
-The debug APK will have `.debug` suffix in application ID and version name.
-
-## Project Structure
+### Project Structure
 
 ```
 ABMusic/
@@ -89,21 +141,15 @@ ABMusic/
 │   ├── src/main/
 │   │   ├── AndroidManifest.xml
 │   │   └── kotlin/com/io/ab/music/
-│   │       ├── ABMusicApp.kt              # @HiltAndroidApp
-│   │       ├── MainActivity.kt           # Single activity, theme + permission gate
-│   │       ├── di/
-│   │       │   └── DatabaseModule.kt     # Hilt module for Room
-│   │       ├── domain/model/             # Pure domain models
-│   │       │   ├── Song.kt
-│   │       │   ├── Album.kt
-│   │       │   ├── Artist.kt
-│   │       │   ├── Playlist.kt
-│   │       │   └── PlayerState.kt
+│   │       ├── ABMusicApp.kt              # @HiltAndroidApp, Coil decoder registration
+│   │       ├── MainActivity.kt           # Single activity, theme + navigation
+│   │       ├── di/DatabaseModule.kt      # Hilt Room provider
 │   │       ├── data/
-│   │       │   ├── db/                   # Room database, DAOs, entities
-│   │       │   ├── preferences/          # DataStore preferences
+│   │       │   ├── db/                   # Room: entities, DAOs, MusicDatabase
+│   │       │   ├── scanner/              # MusicScanner, VideoScanner
 │   │       │   ├── repository/           # MusicRepository
-│   │       │   └── scanner/              # MediaStore scanner
+│   │       │   └── preferences/          # DataStore UserPreferences
+│   │       ├── domain/model/             # Song, Album, Artist, Playlist, Video
 │   │       ├── service/
 │   │       │   ├── MusicService.kt       # Media3 foreground service
 │   │       │   └── NotificationCloseReceiver.kt
@@ -111,42 +157,83 @@ ABMusic/
 │   │       │   ├── components/           # SongItem, MiniPlayer, ArtworkModel
 │   │       │   ├── navigation/           # Screen routes, NavGraph
 │   │       │   ├── theme/                # Color, Theme, Typography, Neumorphism
-│   │       │   ├── viewmodel/            # Player, Library, Settings ViewModels
-│   │       │   └── screens/              # Home, Explore, Library, Favorites,
-│   │       │                             # Search, Player, Queue, Settings
-│   │       └── utils/
-│   │           └── Extensions.kt
+│   │       │   ├── viewmodel/            # PlayerVM, LibraryVM, SettingsVM, VideoVM
+│   │       │   └── screens/              # All screens (10+ screens)
+│   │       └── utils/Extensions.kt
 │   ├── build.gradle
 │   └── proguard-rules.pro
-├── gradle/
-│   └── libs.versions.toml                # Version catalog
+├── gradle/libs.versions.toml             # Version catalog
 ├── settings.gradle
 ├── gradle.properties
-└── update.json                           # OTA update info
+└── update.json                           # OTA update manifest
 ```
 
-## Architecture
+---
 
-The app follows **MVVM** with a single `MusicRepository` orchestrating Room DAOs and the `MusicScanner`. ViewModels expose `StateFlow` to Compose screens. The `PlayerViewModel` connects to `MusicService` via Media3's `MediaController` for playback control.
+## 📋 Requirements
 
-### Data Flow
+| Requirement | Version |
+|---|---|
+| **Android Studio** | Hedgehog or later |
+| **JDK** | 17+ |
+| **Gradle** | 8.x |
+| **Min SDK** | 26 (Android 8.0) |
+| **Target SDK** | 36 (Android 15) |
+| **Compile SDK** | 36 |
 
+---
+
+## 🚀 Build
+
+```bash
+# Debug build
+./gradlew assembleDebug
+
+# Release build (requires keystore)
+./gradlew assembleRelease
+
+# Install on device
+./gradlew installDebug
 ```
-MediaStore → MusicScanner → Room Database → Repository → ViewModel → Compose UI
-                                        ↘ PlayerViewModel → MediaController → MusicService → ExoPlayer
-```
 
-## Permissions
+> Debug APK gets `.debug` suffix in application ID and version name.
 
-| Permission | Purpose |
+---
+
+## 📱 Permissions
+
+| Permission | Required For |
 |---|---|
 | `READ_MEDIA_AUDIO` (13+) | Access audio files |
-| `READ_EXTERNAL_STORAGE` (≤12) | Access audio files |
+| `READ_MEDIA_VIDEO` (13+) | Access video files |
+| `READ_EXTERNAL_STORAGE` (≤12) | Legacy storage access |
 | `POST_NOTIFICATIONS` | Media playback notification |
-| `FOREGROUND_SERVICE` + `MEDIA_PLAYBACK` | Background playback |
+| `FOREGROUND_SERVICE` | Background playback |
 | `BLUETOOTH_CONNECT` | Bluetooth device controls |
+| `MODIFY_AUDIO_SETTINGS` | Equalizer |
+| `INTERNET` | OTA updates |
 
-## License
+---
+
+## 🎯 Roadmap
+
+- [x] Audio playback with ExoPlayer/Media3
+- [x] Background service & notification
+- [x] Playlist management
+- [x] Favorites system
+- [x] Equalizer
+- [x] Sleep timer
+- [x] Video player with PiP
+- [x] AMOLED themes
+- [x] OTA updates
+- [ ] Android Auto support
+- [ ] Lyrics display
+- [ ] Tag editing
+- [ ] Folder browsing
+
+---
+
+## 📄 License
 
 ```
 Copyright 2024 Sandeep Bedia
@@ -163,3 +250,17 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+
+---
+
+<p align="center">
+  <sub>Built with ❤️ using Jetpack Compose & Material 3</sub>
+  <br>
+  <sub>© 2024 Sandeep Bedia</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sandeepbedia/AB-Music/releases">
+    <img src="https://img.shields.io/badge/Download_APK-4.1-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>

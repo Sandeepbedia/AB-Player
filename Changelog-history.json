@@ -1,6 +1,15 @@
 {
   "versions": [
     {
+      "version_name": "2.5.7",
+      "version_code": 405,
+      "date": "2026-06-06",
+      "changes": [
+        "Added video playback support",
+        "More stable UI with performance improvements"
+      ]
+    },
+    {
       "version_name": "4.1",
       "version_code": 5,
       "date": "2026-05-30",

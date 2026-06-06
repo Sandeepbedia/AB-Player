@@ -1,6 +1,6 @@
 {
   "version_name": "2.5.7",
-  "version_code": 406,
+  "version_code": 405,
   "release_notes": "More stable UI/UX • Removed Current and Folder options from Library • Added AMOLED theme • Improved music playback performance • Added gesture controls • Improved theme customization • Developed by Sandeep Bedia",
   "changelog": [
     "If videos not showing, then clear cache app",

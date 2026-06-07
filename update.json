@@ -11,6 +11,6 @@
     "Added session-level flag to prevent re-checking updates on every home screen visit",
     "Manual update button always forces a fresh check"
   ],
-  "apk_url": "https://github.com/Sandeepbedia/AB-Music/releases/download/v2.6.8/ABMusic-v2.6.8.apk",
+  "apk_url": "https://github.com/Sandeepbedia/AB-Music/releases/download/V2.5.8/ABMusic-v2.6.8.apk",
   "force_update": false
 }

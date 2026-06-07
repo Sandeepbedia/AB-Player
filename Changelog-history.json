@@ -1,6 +1,20 @@
 {
   "versions": [
     {
+      "version_name": "2.6.8",
+      "version_code": 406,
+      "date": "2026-06-07",
+      "changes": [
+        "Fixed update check not triggering — update.json version_code was 5 but app versionCode is 405",
+        "Updated update.json with correct version_code 406",
+        "Update check now works correctly from Home page and Settings",
+        "Removed 'App is up-to-date' toast that showed on every page switch — now silent auto-check",
+        "Library tabs (Songs, Albums, Artists, Playlists, Favorites) now auto-adjust to screen width",
+        "Added session-level flag to prevent re-checking updates on every home screen visit",
+        "Manual update button always forces a fresh check"
+      ]
+    },
+    {
       "version_name": "2.5.7",
       "version_code": 405,
       "date": "2026-06-06",

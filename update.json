@@ -1,12 +1,16 @@
 {
-  "version_name": "2.5.7",
-  "version_code": 405,
-  "release_notes": "More stable UI/UX • Removed Current and Folder options from Library • Added AMOLED theme • Improved music playback performance • Added gesture controls • Improved theme customization • Developed by Sandeep Bedia",
+  "version_name": "2.6.8",
+  "version_code": 406,
+  "release_notes": "Fixed online update check — version_code now correctly compares against app versionCode",
   "changelog": [
-    "If videos not showing, then clear cache app",
-    "Added video playback support",
-    "More stable UI with performance improvements"
+    "Fixed update check not triggering — update.json version_code was 5 but app versionCode is 405",
+    "Updated update.json with correct version_code 406",
+    "Update check now works correctly from home page and settings",
+    "Removed 'App is up-to-date' toast that showed on every page switch — now silent auto-check",
+    "Library tabs (Songs, Albums, Artists, Playlists, Favorites) now auto-adjust to screen width",
+    "Added session-level flag to prevent re-checking updates on every home screen visit",
+    "Manual update button always forces a fresh check"
   ],
-  "apk_url": "https://github.com/Sandeepbedia/AB-Music/releases/download/V-2.6.7/app-release-v2.5.7.apk",
+  "apk_url": "https://github.com/Sandeepbedia/AB-Music/releases/download/v2.6.8/ABMusic-v2.6.8.apk",
   "force_update": false
 }

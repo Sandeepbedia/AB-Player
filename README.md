@@ -88,11 +88,13 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://via.placeholder.com/180x360/1a1a2e/BB86FC?text=Home" width="18%" />
-  <img src="https://via.placeholder.com/180x360/1a1a2e/03DAC5?text=Player" width="18%" />
-  <img src="https://via.placeholder.com/180x360/1a1a2e/BB86FC?text=Library" width="18%" />
-  <img src="https://via.placeholder.com/180x360/1a1a2e/03DAC5?text=Video" width="18%" />
-  <img src="https://via.placeholder.com/180x360/1a1a2e/BB86FC?text=Settings" width="18%" />
+  <img src="screenshots/home.png" width="13%" />
+  <img src="screenshots/player.png" width="13%" />
+  <img src="screenshots/library.png" width="13%" />
+  <img src="screenshots/video.png" width="13%" />
+  <img src="screenshots/nowplaying.png" width="13%" />
+  <img src="screenshots/settings.png" width="13%" />
+  <img src="screenshots/album.png" width="13%" />
 </p>
 
 ---

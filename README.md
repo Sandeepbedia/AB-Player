@@ -87,15 +87,23 @@
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="screenshots/home.png" width="13%" />
-  <img src="screenshots/player.png" width="13%" />
-  <img src="screenshots/library.png" width="13%" />
-  <img src="screenshots/video.png" width="13%" />
-  <img src="screenshots/nowplaying.png" width="13%" />
-  <img src="screenshots/settings.png" width="13%" />
-  <img src="screenshots/album.png" width="13%" />
-</p>
+<table>
+<tr>
+  <td align="center"><img src="screenshots/home.png" width="80%" /></td>
+  <td align="center"><img src="screenshots/player.png" width="80%" /></td>
+</tr>
+<tr>
+  <td align="center"><img src="screenshots/library.png" width="80%" /></td>
+  <td align="center"><img src="screenshots/video.png" width="80%" /></td>
+</tr>
+<tr>
+  <td align="center"><img src="screenshots/nowplaying.png" width="80%" /></td>
+  <td align="center"><img src="screenshots/settings.png" width="80%" /></td>
+</tr>
+<tr>
+  <td align="center" colspan="2"><img src="screenshots/album.png" width="40%" /></td>
+</tr>
+</table>
 
 ---
 

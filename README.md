@@ -237,8 +237,8 @@ ABMusic/
 - [x] Video player with PiP
 - [x] AMOLED themes
 - [x] OTA updates
-- [ ] Android Auto support
-- [ ] Lyrics display
+- [x] Android Auto support
+- [x] Lyrics display
 - [ ] Tag editing
 - [ ] Folder browsing
 

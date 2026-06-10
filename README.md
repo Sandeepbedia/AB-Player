@@ -101,7 +101,8 @@
   <td align="center"><img src="screenshots/settings.png" width="80%" /></td>
 </tr>
 <tr>
-  <td align="center" colspan="2"><img src="screenshots/album.png" width="40%" /></td>
+  <td align="center"><img src="screenshots/album.png" width="80%" /></td>
+  <td align="center"><img src="screenshots/equalizer.png" width="80%" /></td>
 </tr>
 </table>
 

@@ -1,16 +1,21 @@
 {
-  "version_name": "2.6.3",
-  "version_code": 411,
-  "release_notes": "Fixed online update check — version_code now correctly compares against app versionCode",
+  "version_name": "2.6.2",
+  "version_code": 410,
+  "release_notes": "Video player buttons rearranged, lock button moved to bottom-left, album art fix on pause, seek bar glitch fixed, custom sleep timer, 3-dot menus in home songs list, duration below artist name, navbar & window theme fixes",
   "changelog": [
-    "Fixed update check not triggering — update.json version_code was 5 but app versionCode is 405",
-    "Updated update.json with correct version_code 406",
-    "Update check now works correctly from home page and settings",
-    "Removed 'App is up-to-date' toast that showed on every page switch — now silent auto-check",
-    "Library tabs (Songs, Albums, Artists, Playlists, Favorites) now auto-adjust to screen width",
-    "Added session-level flag to prevent re-checking updates on every home screen visit",
-    "Manual update button always forces a fresh check"
+    "Video player portrait/landscape button layout redesigned for better reachability",
+    "Lock button moved to bottom-left corner above seek bar",
+    "Audio track & subtitle auto-select based on device language",
+    "Action buttons (loop, scale, speed, rotate) no longer reset after app reopen — persisted via DataStore",
+    "Top navbar and window status bar now match selected theme color",
+    "Video player header background matches app theme",
+    "Home screen song duration now shown below artist name",
+    "3-dot menu added to all songs in home list with Play, Add to Queue, Add to Playlist, Share, Favorite options",
+    "MiniPlayer and Now Playing album art no longer resets to placeholder when song is paused",
+    "Video seek bar glitch fixed — no more flash/jump when scrubbing",
+    "Now Playing custom sleep timer — enter any minutes value instead of preset only",
+    "App version bumped to 2.6.2 (code 410)"
   ],
-  "apk_url": "https://github.com/Sandeepbedia/AB-Music/releases/download/V2.5.8/ABMusic-v2.6.8.apk",
+  "apk_url": "https://github.com/Sandeepbedia/AB-Music/releases/download/v2.6.2/ABMusic-v2.6.2.apk",
   "force_update": false
 }

@@ -1,6 +1,6 @@
 {
-  "version_name": "2.6.8",
-  "version_code": 406,
+  "version_name": "2.6.2",
+  "version_code": 410,
   "release_notes": "Fixed online update check — version_code now correctly compares against app versionCode",
   "changelog": [
     "Fixed update check not triggering — update.json version_code was 5 but app versionCode is 405",

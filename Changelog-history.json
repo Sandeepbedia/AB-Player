@@ -1,6 +1,25 @@
 {
   "versions": [
     {
+      "version_name": "2.6.2",
+      "version_code": 410,
+      "date": "2026-06-11",
+      "changes": [
+        "Video player portrait/landscape button layout redesigned for better reachability",
+        "Lock button moved to bottom-left corner above seek bar",
+        "Audio track & subtitle auto-select based on device language",
+        "Action buttons (loop, scale, speed, rotate) no longer reset after app reopen — persisted via DataStore",
+        "Top navbar and window status bar now match selected theme color",
+        "Video player header background matches app theme",
+        "Home screen song duration now shown below artist name",
+        "3-dot menu added to all songs in home list with Play, Add to Queue, Add to Playlist, Share, Favorite options",
+        "MiniPlayer and Now Playing album art no longer resets to placeholder when song is paused",
+        "Video seek bar glitch fixed — no more flash/jump when scrubbing",
+        "Now Playing custom sleep timer — enter any minutes value instead of preset only",
+        "App version bumped to 2.6.2 (code 410)"
+      ]
+    },
+    {
       "version_name": "2.6.8",
       "version_code": 406,
       "date": "2026-06-07",

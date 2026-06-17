@@ -1,6 +1,6 @@
 {
-  "version_name": "2.6.4",
-  "version_code": 412,
+  "version_name": "2.6.2",
+  "version_code": 410,
   "release_notes": "Video player buttons rearranged, lock button moved to bottom-left, album art fix on pause, seek bar glitch fixed, custom sleep timer, 3-dot menus in home songs list, duration below artist name, navbar & window theme fixes",
   "changelog": [
     "Video player portrait/landscape button layout redesigned for better reachability",

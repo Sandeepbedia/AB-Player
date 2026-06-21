@@ -72,13 +72,15 @@ Or open **Settings > Check Updates** inside the app.
 
 <div align="center">
 
-| Home | Player | Video | Settings |
-|:----:|:------:|:-----:|:--------:|
-| <img src="screenshots/home.png" width="180" alt="Home"/> | <img src="screenshots/player.png" width="180" alt="Player"/> | <img src="screenshots/video.png" width="180" alt="Video"/> | <img src="screenshots/settings.png" width="180" alt="Settings"/> |
+| Home | Songs | Player | Video |
+|:----:|:-----:|:------:|:-----:|
+| <img src="screenshots/Screenshot_20260622-045909_AB%20Player.png" width="180" alt="Home"/> | <img src="screenshots/Screenshot_20260622-045915_AB%20Player.png" width="180" alt="Songs"/> | <img src="screenshots/Screenshot_20260622-045922_AB%20Player.png" width="180" alt="Player"/> | <img src="screenshots/Screenshot_20260622-045929_AB%20Player.png" width="180" alt="Video"/> |
+
+| Equalizer | Settings | Search | Queue |
+|:---------:|:--------:|:------:|:-----:|
+| <img src="screenshots/Screenshot_20260622-045933_AB%20Player.png" width="180" alt="Equalizer"/> | <img src="screenshots/Screenshot_20260622-045931_AB%20Player.png" width="180" alt="Settings"/> | <img src="screenshots/Screenshot_20260622-050049_AB%20Player.png" width="180" alt="Search"/> | <img src="screenshots/Screenshot_20260622-045918_AB%20Player.png" width="180" alt="Queue"/> |
 
 </div>
-
-> Screenshots folder not yet added. Place them in `screenshots/` directory.
 
 ---
 

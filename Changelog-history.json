@@ -1,6 +1,21 @@
 {
   "versions": [
     {
+      "version_name": "2.6.4",
+      "version_code": 412,
+      "date": "2026-06-21",
+      "changes": [
+        "New: Manual Wallpaper Theme — pick any photo from your gallery as the app background",
+        "Top tab bar and screen backgrounds turn transparent when a wallpaper is active, so it shows through everywhere",
+        "Window status bar and navigation bar already render fully transparent, now consistent with the wallpaper theme",
+        "Settings > Appearance > Manual Wallpaper — toggle on/off, change image anytime",
+        "New Blur slider (0–40dp) to manually control how soft the wallpaper looks",
+        "New Overlay Darkness slider to keep text/icons readable on bright photos",
+        "Wallpaper image is copied into app-private storage so it survives reboots without extra storage permissions",
+        "App version bumped to 2.6.4 (code 412)"
+      ]
+    },
+    {
       "version_name": "2.6.2",
       "version_code": 410,
       "date": "2026-06-11",
@@ -20,7 +35,7 @@
       ]
     },
     {
-      "version_name": "2.5.8",
+      "version_name": "2.6.8",
       "version_code": 406,
       "date": "2026-06-07",
       "changes": [
@@ -105,7 +120,7 @@
       "version_code": 1,
       "date": "2026-05-01",
       "changes": [
-        "Initial public release of AB Music",
+        "Initial public release of AB Player",
         "Offline music player with MediaStore scanning",
         "Basic play, pause, next, previous controls",
         "Equalizer with 5-band control and presets",

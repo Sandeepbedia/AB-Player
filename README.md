@@ -33,6 +33,21 @@
 
 ---
 
+## 📋 Summary
+
+| # | Feature | Description |
+|---|---------|-------------|
+| 🎵 | **Music Player** | Play offline songs with equalizer, bass boost, crossfade, sleep timer, queue management |
+| 🎬 | **Video Player** | Full-screen video with PiP, gestures, orientation lock, subtitle support |
+| 🎨 | **7 Themes** | System, Light, Dark, AMOLED (4 variants) with 8 accent colors + Dynamic Color |
+| 📂 | **Library** | Browse by Songs, Albums, Artists, Playlists, Folders, Favorites |
+| 🔍 | **Search** | Real-time search with history, trending, autocomplete |
+| 🔄 | **OTA Updates** | Auto-check updates, download & install APK from within app |
+| 🏠 | **Home** | Recently played, greeting header, quick sort, multi-select |
+| ⚡ | **Built With** | Kotlin, Jetpack Compose, Material 3, ExoPlayer, Room DB, Hilt |
+
+---
+
 ## 📱 Features
 
 ### 🎵 Music Playback

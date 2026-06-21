@@ -72,13 +72,21 @@ Or open **Settings > Check Updates** inside the app.
 
 <div align="center">
 
-| Home | Songs | Player | Video |
-|:----:|:-----:|:------:|:-----:|
-| <img src="screenshots/Screenshot_20260622-045909_AB%20Player.png" width="180" alt="Home"/> | <img src="screenshots/Screenshot_20260622-045915_AB%20Player.png" width="180" alt="Songs"/> | <img src="screenshots/Screenshot_20260622-045922_AB%20Player.png" width="180" alt="Player"/> | <img src="screenshots/Screenshot_20260622-045929_AB%20Player.png" width="180" alt="Video"/> |
+| Home | Songs |
+|:----:|:-----:|
+| <img src="screenshots/Screenshot_20260622-045909_AB%20Player.png" width="250" alt="Home"/> | <img src="screenshots/Screenshot_20260622-045915_AB%20Player.png" width="250" alt="Songs"/> |
 
-| Equalizer | Settings | Search | Queue |
-|:---------:|:--------:|:------:|:-----:|
-| <img src="screenshots/Screenshot_20260622-045933_AB%20Player.png" width="180" alt="Equalizer"/> | <img src="screenshots/Screenshot_20260622-045931_AB%20Player.png" width="180" alt="Settings"/> | <img src="screenshots/Screenshot_20260622-050049_AB%20Player.png" width="180" alt="Search"/> | <img src="screenshots/Screenshot_20260622-045918_AB%20Player.png" width="180" alt="Queue"/> |
+| Player | Video |
+|:------:|:-----:|
+| <img src="screenshots/Screenshot_20260622-045922_AB%20Player.png" width="250" alt="Player"/> | <img src="screenshots/Screenshot_20260622-045929_AB%20Player.png" width="250" alt="Video"/> |
+
+| Equalizer | Settings |
+|:---------:|:--------:|
+| <img src="screenshots/Screenshot_20260622-045933_AB%20Player.png" width="250" alt="Equalizer"/> | <img src="screenshots/Screenshot_20260622-045931_AB%20Player.png" width="250" alt="Settings"/> |
+
+| Search | Queue |
+|:------:|:-----:|
+| <img src="screenshots/Screenshot_20260622-050049_AB%20Player.png" width="250" alt="Search"/> | <img src="screenshots/Screenshot_20260622-045918_AB%20Player.png" width="250" alt="Queue"/> |
 
 </div>
 

@@ -84,9 +84,9 @@ Or open **Settings > Check Updates** inside the app.
 |:------------:|:--------:|
 | <img src="screenshots/5%20video%20player.png" width="250" alt="Video Player"/> | <img src="screenshots/6%20explorer.png" width="250" alt="Explorer"/> |
 
-| Settings | |
-|:--------:|:----:|
-| <img src="screenshots/8%20setting.png" width="250" alt="Settings"/> | <img src="screenshots/settings.png" width="250" alt="Settings"/> |
+| Favorites | Settings |
+|:---------:|:--------:|
+| <img src="screenshots/7%20favorites.png" width="250" alt="Favorites"/> | <img src="screenshots/8%20setting.png" width="250" alt="Settings"/> |
 
 </div>
 

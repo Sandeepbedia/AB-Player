@@ -1,20 +1,16 @@
 {
-  "version_name": "2.6.2",
-  "version_code": 410,
-  "release_notes": "Video player buttons rearranged, lock button moved to bottom-left, album art fix on pause, seek bar glitch fixed, custom sleep timer, 3-dot menus in home songs list, duration below artist name, navbar & window theme fixes",
+  "version_name": "2.6.4",
+  "version_code": 412,
+  "release_notes": "New: Manual Wallpaper Theme — pick any photo from your gallery as the app background",
   "changelog": [
-    "Video player portrait/landscape button layout redesigned for better reachability",
-    "Lock button moved to bottom-left corner above seek bar",
-    "Audio track & subtitle auto-select based on device language",
-    "Action buttons (loop, scale, speed, rotate) no longer reset after app reopen — persisted via DataStore",
-    "Top navbar and window status bar now match selected theme color",
-    "Video player header background matches app theme",
-    "Home screen song duration now shown below artist name",
-    "3-dot menu added to all songs in home list with Play, Add to Queue, Add to Playlist, Share, Favorite options",
-    "MiniPlayer and Now Playing album art no longer resets to placeholder when song is paused",
-    "Video seek bar glitch fixed — no more flash/jump when scrubbing",
-    "Now Playing custom sleep timer — enter any minutes value instead of preset only",
-    "App version bumped to 2.6.2 (code 410)"
+    "New: Manual Wallpaper Theme — pick any photo from your gallery as the app background",
+    "Top tab bar and screen backgrounds turn transparent when a wallpaper is active, so it shows through everywhere",
+    "Window status bar and navigation bar already render fully transparent, now consistent with the wallpaper theme",
+    "Settings > Appearance > Manual Wallpaper — toggle on/off, change image anytime",
+    "New Blur slider (0–40dp) to manually control how soft the wallpaper looks",
+    "New Overlay Darkness slider to keep text/icons readable on bright photos",
+    "Wallpaper image is copied into app-private storage so it survives reboots without extra storage permissions",
+    "App version bumped to 2.6.4 (code 412)"
   ],
   "apk_url": "https://github.com/Sandeepbedia/AB-Player/releases/download/V2.6.4/AB.Player.apk",
   "force_update": false

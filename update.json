@@ -1,6 +1,6 @@
 {
   "version_name": "2.6.4",
-  "version_code": 412,
+  "version_code": 411,
   "release_notes": "New: Manual Wallpaper Theme — pick any photo from your gallery as the app background",
   "changelog": [
     "New: Manual Wallpaper Theme — pick any photo from your gallery as the app background",
@@ -10,7 +10,7 @@
     "New Blur slider (0–40dp) to manually control how soft the wallpaper looks",
     "New Overlay Darkness slider to keep text/icons readable on bright photos",
     "Wallpaper image is copied into app-private storage so it survives reboots without extra storage permissions",
-    "App version bumped to 2.6.4 (code 412)"
+    "App version bumped to 2.6.4 (code 411)"
   ],
   "apk_url": "https://github.com/Sandeepbedia/AB-Player/releases/download/V2.6.4/AB.Player.apk",
   "force_update": false

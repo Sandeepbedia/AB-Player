@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" width="120" height="120" alt="AB Player Logo"/>
+  <img src="logo.png" width="120" height="120" alt="AB Player Logo"/>
   <h1>AB Player</h1>
   <p><strong>Your all-in-one offline music & video player for Android</strong></p>
 

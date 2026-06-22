@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" width="120" height="120" alt="AB Player Logo"/>
+  <img src="https://raw.githubusercontent.com/Sandeepbedia/AB-Player/main/logo.jpg" width="200" alt="AB Player Logo"/>
   <h1>AB Player</h1>
   <p><strong>Your all-in-one offline music & video player for Android</strong></p>
 

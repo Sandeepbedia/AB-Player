@@ -72,21 +72,21 @@ Or open **Settings > Check Updates** inside the app.
 
 <div align="center">
 
-| Home | Songs |
-|:----:|:-----:|
-| <img src="screenshots/Screenshot_20260622-045909_AB%20Player.png" width="250" alt="Home"/> | <img src="screenshots/Screenshot_20260622-045915_AB%20Player.png" width="250" alt="Songs"/> |
+| Home | Music Player |
+|:----:|:------------:|
+| <img src="screenshots/1%20Home.png" width="250" alt="Home"/> | <img src="screenshots/2%20music%20player.png" width="250" alt="Music Player"/> |
 
-| Player | Video |
-|:------:|:-----:|
-| <img src="screenshots/Screenshot_20260622-045922_AB%20Player.png" width="250" alt="Player"/> | <img src="screenshots/Screenshot_20260622-045929_AB%20Player.png" width="250" alt="Video"/> |
+| Song Lyrics | Videos |
+|:-----------:|:------:|
+| <img src="screenshots/3%20song%20lyrics.png" width="250" alt="Song Lyrics"/> | <img src="screenshots/4%20videos.png" width="250" alt="Videos"/> |
 
-| Equalizer | Settings |
-|:---------:|:--------:|
-| <img src="screenshots/Screenshot_20260622-045933_AB%20Player.png" width="250" alt="Equalizer"/> | <img src="screenshots/Screenshot_20260622-045931_AB%20Player.png" width="250" alt="Settings"/> |
+| Video Player | Explorer |
+|:------------:|:--------:|
+| <img src="screenshots/5%20video%20player.png" width="250" alt="Video Player"/> | <img src="screenshots/6%20explorer.png" width="250" alt="Explorer"/> |
 
-| Search | Queue |
-|:------:|:-----:|
-| <img src="screenshots/Screenshot_20260622-050049_AB%20Player.png" width="250" alt="Search"/> | <img src="screenshots/Screenshot_20260622-045918_AB%20Player.png" width="250" alt="Queue"/> |
+| Settings | |
+|:--------:|:----:|
+| <img src="screenshots/8%20setting.png" width="250" alt="Settings"/> | <img src="screenshots/settings.png" width="250" alt="Settings"/> |
 
 </div>
 

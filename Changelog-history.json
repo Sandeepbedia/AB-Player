@@ -1,6 +1,21 @@
 {
   "versions": [
     {
+      "version_name": "2.6.5",
+      "version_code": 413,
+      "date": "2026-06-23",
+      "changes": [
+        "✨ Added Dancing Pet",
+        "🎨 Fixed Tab Bar theme mismatch",
+        "🧩 Added Home Screen Widgets (Beta)",
+        "🚀 Added Shortcut Launcher",
+        "⚡ Improved UI performance and reduced lag",
+        "🎞️ Disabled many unnecessary animations for a smoother experience",
+        "🐞 Various bug fixes and stability improvements",
+        "App version bumped to 2.6.5 (code 413)"
+      ]
+    },
+    {
       "version_name": "2.6.4",
       "version_code": 412,
       "date": "2026-06-21",

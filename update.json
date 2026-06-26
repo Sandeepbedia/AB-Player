@@ -1,17 +1,16 @@
 {
-  "version_name": "2.6.4",
-  "version_code": 411,
-  "release_notes": "New: Manual Wallpaper Theme — pick any photo from your gallery as the app background",
+  "version_name": "2.6.5",
+  "version_code": 413,
+  "release_notes": "AB Music v2.6.5 brings new widgets (Beta), Dancing Pet, Shortcut Launcher, improved UI performance, animation optimizations, and various UI fixes.",
   "changelog": [
-    "New: Manual Wallpaper Theme — pick any photo from your gallery as the app background",
-    "Top tab bar and screen backgrounds turn transparent when a wallpaper is active, so it shows through everywhere",
-    "Window status bar and navigation bar already render fully transparent, now consistent with the wallpaper theme",
-    "Settings > Appearance > Manual Wallpaper — toggle on/off, change image anytime",
-    "New Blur slider (0–40dp) to manually control how soft the wallpaper looks",
-    "New Overlay Darkness slider to keep text/icons readable on bright photos",
-    "Wallpaper image is copied into app-private storage so it survives reboots without extra storage permissions",
-    "App version bumped to 2.6.4 (code 411)"
+    "✨ Added Dancing Pet",
+    "🎨 Fixed Tab Bar theme mismatch",
+    "🧩 Added Home Screen Widgets (Beta)",
+    "🚀 Added Shortcut Launcher",
+    "⚡ Improved UI performance and reduced lag",
+    "🎞️ Disabled many unnecessary animations for smoother experience",
+    "🐞 Various bug fixes and stability improvements"
   ],
-  "apk_url": "https://github.com/Sandeepbedia/AB-Player/releases/download/V2.6.4/AB.Player.apk",
+  "apk_url": "https://github.com/Sandeepbedia/AB-Music/releases/download/v2.6.5/ABMusic-v2.6.5.apk",
   "force_update": false
 }
